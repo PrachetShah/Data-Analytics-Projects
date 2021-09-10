@@ -1,5 +1,5 @@
 # Learning Points & Summary
-In this lesson we looked at how to:
+In this notebook we looked at how to:
 
 * How to use `.describe()` to quickly see some descriptive statistics at a glance.
 
