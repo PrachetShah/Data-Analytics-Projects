@@ -1,5 +1,5 @@
 ## Learning Points & Summary
-In notebook lesson we looked at how to:
+In notebook we looked at how to:
 
 * Pull a random sample from a DataFrame using .sample()
 
