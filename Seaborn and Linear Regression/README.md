@@ -1,5 +1,5 @@
 # Linear Regression using its slope algorithm and visulisation with SeaBorn
-# Learning Points & Summary
+# Learning Points & Summary.
 Today was a pretty packed lesson where we introduced a lot of new concepts. In this lesson we looked at how to:
 
 * Use nested loops to remove unwanted characters from multiple columns
