@@ -1,4 +1,4 @@
-## Learning Points & Summary
+### Learning Points & Summary
 In workbook we looked at how to:
 
 * Create arrays manually with `np.array()`
